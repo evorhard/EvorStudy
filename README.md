@@ -30,7 +30,7 @@
     <li><a href="https://www.youtube.com/watch?v=olY_2MW4Eik">Spotify API OAuth - Automate Getting User Playlists (Complete Tutorial)</a></li>
 </ul>
 
-<h3><a href="hhttps://www.youtube.com/@PatrickAlphaC">Patrick Collins</a></h3>
+<h3><a href="https://www.youtube.com/@PatrickAlphaC">Patrick Collins</a></h3>
 <ul>
     <li><a href="https://www.youtube.com/watch?v=umepbfKp5rI">Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (0 - 6)</a></li>
 </ul>
