@@ -13,7 +13,7 @@
     <li><a href="https://www.youtube.com/watch?v=BpPEoZW5IiY">Learn Rust Programming - Complete Course 🦀</a></li>
 </ul>
 
-<h3><a href="hhttps://www.youtube.com/@PatrickAlphaC">Patrick Collins</a></h3>
+<h3><a href="https://www.youtube.com/@PatrickAlphaC">Patrick Collins</a></h3>
 <ul>
     <li><a href="https://www.youtube.com/watch?v=BpPEoZW5IiY">Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (7 - 11)</a></li>
 </ul>
