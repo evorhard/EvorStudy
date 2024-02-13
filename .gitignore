@@ -1,0 +1,17 @@
+# Folders
+broadcast/
+cache/
+lib/
+docs/
+out/
+target/
+
+# Hidden folders
+.github/
+
+# Files
+.env
+Cargo.lock
+
+# Projects to ignore
+freecodecamp.org/learn_rust_programming_complete_course/
