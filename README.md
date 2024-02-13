@@ -1,5 +1,5 @@
 <h1>EvorStudy</h1>
-<p>This repo is where I keep track of everything I have studied and will also host projects from tutorials that I decide to upload.</p>
+<p>Chronicling the range of courses, tutorials, and guides that I've completed, archiving my continuous learning.</p>
 
 <h2>Currently Studying</h2>
 
