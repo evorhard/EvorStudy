@@ -3,11 +3,6 @@
 
 <h2>Currently Studying</h2>
 
-<h3><a href="https://exercism.org/profiles/evorhard">Exercism</a></h3>
-<ul>
-    <li><a href="https://exercism.org/tracks/python">Going through the Python track</a></li>
-</ul>
-
 <h3><a href="https://www.youtube.com/@freecodecamp">freeCodeCamp.org</a></h3>
 <ul>
     <li><a href="https://www.youtube.com/watch?v=BpPEoZW5IiY">Learn Rust Programming - Complete Course 🦀</a></li>
@@ -16,6 +11,13 @@
 <h3><a href="https://www.youtube.com/@PatrickAlphaC">Patrick Collins</a></h3>
 <ul>
     <li><a href="https://www.youtube.com/watch?v=BpPEoZW5IiY">Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (7 - 11)</a></li>
+</ul>
+
+<h2>On Hold</h2>
+
+<h3><a href="https://exercism.org/profiles/evorhard">Exercism</a></h3>
+<ul>
+    <li><a href="https://exercism.org/tracks/python">Going through the Python track</a></li>
 </ul>
 
 <h2>Finished Studying</h2>
