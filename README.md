@@ -1,21 +1,23 @@
 <h1>EvorStudy</h1>
-<p>This repo is where I keep track of everything I have studied and will also host projects from tutorials that I decide to upload.</p>
+<p>Chronicling the range of courses, tutorials, and guides that I've completed, archiving my continuous learning.</p>
 
 <h2>Currently Studying</h2>
-
-<h3><a href="https://exercism.org/profiles/evorhard">Exercism</a></h3>
-<ul>
-    <li><a href="https://exercism.org/tracks/python">Going through the Python track</a></li>
-</ul>
 
 <h3><a href="https://www.youtube.com/@freecodecamp">freeCodeCamp.org</a></h3>
 <ul>
     <li><a href="https://www.youtube.com/watch?v=BpPEoZW5IiY">Learn Rust Programming - Complete Course 🦀</a></li>
 </ul>
 
-<h3><a href="hhttps://www.youtube.com/@PatrickAlphaC">Patrick Collins</a></h3>
+<h3><a href="https://www.youtube.com/@PatrickAlphaC">Patrick Collins</a></h3>
 <ul>
     <li><a href="https://www.youtube.com/watch?v=BpPEoZW5IiY">Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (7 - 11)</a></li>
+</ul>
+
+<h2>On Hold</h2>
+
+<h3><a href="https://exercism.org/profiles/evorhard">Exercism</a></h3>
+<ul>
+    <li><a href="https://exercism.org/tracks/python">Going through the Python track</a></li>
 </ul>
 
 <h2>Finished Studying</h2>
@@ -30,7 +32,7 @@
     <li><a href="https://www.youtube.com/watch?v=olY_2MW4Eik">Spotify API OAuth - Automate Getting User Playlists (Complete Tutorial)</a></li>
 </ul>
 
-<h3><a href="hhttps://www.youtube.com/@PatrickAlphaC">Patrick Collins</a></h3>
+<h3><a href="https://www.youtube.com/@PatrickAlphaC">Patrick Collins</a></h3>
 <ul>
     <li><a href="https://www.youtube.com/watch?v=umepbfKp5rI">Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (0 - 6)</a></li>
 </ul>
