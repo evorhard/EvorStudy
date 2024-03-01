@@ -3,11 +3,6 @@
 
 <h2>Currently Studying</h2>
 
-<h3><a href="https://www.youtube.com/@freecodecamp">freeCodeCamp.org</a></h3>
-<ul>
-    <li><a href="https://www.youtube.com/watch?v=BpPEoZW5IiY">Learn Rust Programming - Complete Course 🦀</a></li>
-</ul>
-
 <h3><a href="https://www.youtube.com/@PatrickAlphaC">Patrick Collins</a></h3>
 <ul>
     <li><a href="https://www.youtube.com/watch?v=BpPEoZW5IiY">Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (7 - 11)</a></li>
@@ -25,6 +20,11 @@
 <h3><a href="https://www.youtube.com/@AkamaiDeveloper">Akamai Developer</a></h3>
 <ul>
     <li><a href="https://www.youtube.com/watch?v=WAmEZBEeNmg">How to Use Spotify's API with Python | Write a Program to Display Artist, Tracks, and More</a></li>
+</ul>
+
+<h3><a href="https://www.youtube.com/@freecodecamp">freeCodeCamp.org</a></h3>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=BpPEoZW5IiY">Learn Rust Programming - Complete Course 🦀</a></li>
 </ul>
 
 <h3><a href="https://www.youtube.com/@imdadcodes">Imdad Codes</a></h3>
