@@ -5,7 +5,12 @@
 
 <h3><a href="https://www.youtube.com/@PatrickAlphaC">Patrick Collins</a></h3>
 <ul>
-    <li><a href="https://www.youtube.com/watch?v=BpPEoZW5IiY">Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (7 - 11)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=wUjYK5gwNZs">Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (12 - 15)</a></li>
+</ul>
+
+<h3><a href="https://speedrunethereum.com">Speedrun Ethereum</a></h3>
+<ul>
+    <li><a href="https://speedrunethereum.com/challenge/simple-nft-example">🚩 Challenge #0: 🎟 Simple NFT Example</a></li>
 </ul>
 
 <h2>On Hold</h2>
@@ -35,6 +40,7 @@
 <h3><a href="https://www.youtube.com/@PatrickAlphaC">Patrick Collins</a></h3>
 <ul>
     <li><a href="https://www.youtube.com/watch?v=umepbfKp5rI">Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (0 - 6)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=BpPEoZW5IiY">Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (7 - 11)</a></li>
 </ul>
 
 <h3><a href="https://www.youtube.com/@projectfinance">projectfinance</a></h3>
