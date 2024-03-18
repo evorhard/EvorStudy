@@ -54,6 +54,11 @@
     <li><a href="https://www.youtube.com/watch?v=IxhrXKEVCsc">Self-driving car - No libraries - JavaScript course [Lecture 2]</a></li>
 </ul>
 
+<h3><a href="https://speedrunethereum.com">Speedrun Ethereum</a></h3>
+<ul>
+    <li><a href="https://speedrunethereum.com/challenge/simple-nft-example">🚩 Challenge #0: 🎟 Simple NFT Example</a></li>
+</ul>
+
 <h3>Tim McNamara</h3>
 <ul>
     <li><a href="https://www.manning.com/books/rust-in-action">Rust in Action</a></li>
