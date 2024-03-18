@@ -10,7 +10,7 @@
 
 <h3><a href="https://speedrunethereum.com">Speedrun Ethereum</a></h3>
 <ul>
-    <li><a href="https://speedrunethereum.com/challenge/simple-nft-example">🚩 Challenge #0: 🎟 Simple NFT Example</a></li>
+    <li><a href="https://speedrunethereum.com/challenge/simple-nft-example">🚩 Challenge 1: 🥩 Decentralized Staking App</a></li>
 </ul>
 
 <h2>On Hold</h2>
